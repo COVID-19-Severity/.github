@@ -4,7 +4,7 @@ COVID-19 Severity Repository
 # Laboratory Biomarkers and Machine Learning
 Development of a Machine Learning model for the prognosis of COVID-19 in terms of SEVERITY using laboratory biomarkers. The data are from examinations of patients treated at the Hospital de Clínicas of the Federal University of Paraná.
 
-# Objective:
+# Objective
 Develop a Machine Learning model to predict the severity of COVID-19 and identify biomarkers associated with this severity in order to optimize priority in hospital care.
 
 # Source Code and DataSet
