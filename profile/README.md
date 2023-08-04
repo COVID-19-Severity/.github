@@ -24,7 +24,6 @@ https://github.com/COVID-19-Severity/DataSet
   <li>Waldemar Volanski (1)</li>
   <li>Liana Signorini (1)</li>
   <li>Alexessander Couto Alves (3)</li>
-  <li>Roberto Pontarolo (1)</li>
   <li>Fabiane Gomes de Moraes Rego (1)</li>
   <li>Geraldo Picheth (1)</li>
 </ul>
