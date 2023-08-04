@@ -11,7 +11,6 @@ Development of a Machine Learning model for the prognosis of COVID-19 in terms o
   <li>University of Surrey</li>
 </ol>
   
-
 # Project Members
 <ul>  
   <li>Ademir Luiz do Prado (1, 2)</li>
@@ -19,7 +18,6 @@ Development of a Machine Learning model for the prognosis of COVID-19 in terms o
   <li>Waldemar Volanski (1)</li>
   <li>Liana Signorini (1)</li>
   <li>Alexessander Couto Alves (3)</li>
-  <li>Roberto Pontarolo (1)</li>
   <li>Fabiane Gomes de Moraes Rego (1)</li>
   <li>Geraldo Picheth (1)</li>
 </ul>
