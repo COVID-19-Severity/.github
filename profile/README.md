@@ -23,7 +23,6 @@ https://github.com/COVID-19-Severity/DataSet
   <li>Alexandre de Fátima Cobre (1)</li>
   <li>Waldemar Volanski (1)</li>
   <li>Liana Signorini (1)</li>
-  <li>Alexessander Couto Alves (3)</li>
   <li>Fabiane Gomes de Moraes Rego (1)</li>
   <li>Geraldo Picheth (1)</li>
 </ul>
