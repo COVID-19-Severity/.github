@@ -14,7 +14,6 @@ https://github.com/COVID-19-Severity/DataSet
 <ol>
   <li>Federal University of Paraná</li>
   <li>Federal Institute of Paraná</li>
-  <li>University of Surrey</li>
 </ol>  
 
 # Project Members
