@@ -7,6 +7,14 @@ Development of a Machine Learning model for the prognosis of COVID-19 in terms o
 # Objective
 Develop a Machine Learning model to predict the severity of COVID-19 and identify biomarkers associated with this severity in order to optimize priority in hospital care.
 
+# Technologies
+<ul>
+  <li>Python</li>
+  <li>PyCaret</li>
+  <li>Google Colab</li>
+  <li>Jupyter Notebook</li>
+</ul>
+
 # Source Code and DataSet
 https://github.com/COVID-19-Severity/DataSet
 
