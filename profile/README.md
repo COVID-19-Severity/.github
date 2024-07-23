@@ -5,7 +5,9 @@
 </p>
   
 # COVID-19 Severity
-COVID-19 Severity Repository
+COVID-19 Severity is a software registered in the Brazilian National Institute of Industrial Property under BR512024002371-2, linked to the Federal University of Paraná, Brazil.<br>
+Prado <i>et al.</i>, <b>COVID-19 Severity</b>, BR512023000732-3, Jul. 16, 2024. pp. 13. <b>https://revistas.inpi.gov.br/pdf/Programa_de_computador2793.pdf</b>
+<img width="120" height="50" src=https://www.gov.br/inpi/pt-br/copy2_of_nova-home-page/@@govbr.institucional.banner/c1e399f8-ccf9-479b-a302-f80492cbc470/@@images/b9e08c17-bebf-4f2d-9f20-91cdab4b23b8.png>
 
 # Laboratory Biomarkers and Machine Learning
 Development of a Machine Learning model for the prognosis of COVID-19 in terms of SEVERITY using laboratory biomarkers. The data are from examinations of patients treated at the Hospital de Clínicas of the Federal University of Paraná.
