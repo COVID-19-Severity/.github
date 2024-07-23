@@ -6,7 +6,7 @@
   
 # COVID-19 Severity
 COVID-19 Severity is a software registered in the Brazilian National Institute of Industrial Property under BR512024002371-2, linked to the Federal University of Paraná, Brazil.<br>
-Prado <i>et al.</i>, <b>COVID-19 Severity</b>, BR512023000732-3, Jul. 16, 2024. pp. 13. <b>https://revistas.inpi.gov.br/pdf/Programa_de_computador2793.pdf</b>
+PRADO, ADEMIR LUIZ DO, VOLANSKI, WALDEMAR ; SIGNORINI, LIANA; VALDAMERI, GLAUCIO;  VALDAMERI, VIVIAN ROTUNO MOURE; REGO, FABIANE GOMES DE MORAES; PICHETH, GERALDO. <b>COVID-19 Severity</b>, BR512023000732-3, Jul. 16, 2024. p. 13. <b>https://revistas.inpi.gov.br/pdf/Programa_de_computador2793.pdf</b><br>
 <img width="120" height="50" src=https://www.gov.br/inpi/pt-br/copy2_of_nova-home-page/@@govbr.institucional.banner/c1e399f8-ccf9-479b-a302-f80492cbc470/@@images/b9e08c17-bebf-4f2d-9f20-91cdab4b23b8.png>
 
 # Laboratory Biomarkers and Machine Learning
@@ -30,18 +30,15 @@ https://github.com/COVID-19-Severity/DataSet
 <ol>
   <li>Federal University of Paraná</li>
   <li>Federal Institute of Paraná</li>
-  <li>University of Surrey</li>
 </ol>  
 
 # Project Members
 <ul>  
   <li>Ademir Luiz do Prado (1, 2)</li>
-  <li>Alexandre de Fátima Cobre (1)</li>
   <li>Waldemar Volanski (1)</li>
   <li>Liana Signorini (1)</li>
   <li>Glaucio Valdameri (1)</li>
   <li>Vivian Rotuno Moure (1)</li>
-  <li>Alexessander da Silva Couto Alves (3)</li>
   <li>Fabiane Gomes de Moraes Rego (1)</li>
   <li>Geraldo Picheth (1)</li>
 </ul>
