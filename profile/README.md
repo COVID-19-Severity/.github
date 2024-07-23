@@ -6,7 +6,7 @@
   
 # COVID-19 Severity
 COVID-19 Severity is a software registered in the Brazilian National Institute of Industrial Property under BR512024002371-2, linked to the Federal University of Paraná, Brazil.<br>
-PRADO, ADEMIR LUIZ DO, VOLANSKI, WALDEMAR ; SIGNORINI, LIANA; VALDAMERI, GLAUCIO;  VALDAMERI, VIVIAN ROTUNO MOURE; REGO, FABIANE GOMES DE MORAES; PICHETH, GERALDO. <b>COVID-19 Severity</b>, BR512023000732-3, Jul. 16, 2024. p. 13. <b>https://revistas.inpi.gov.br/pdf/Programa_de_computador2793.pdf</b><br>
+PRADO, ADEMIR LUIZ DO, VOLANSKI, WALDEMAR ; SIGNORINI, LIANA; VALDAMERI, GLAUCIO;  VALDAMERI, VIVIAN ROTUNO MOURE; REGO, FABIANE GOMES DE MORAES; PICHETH, GERALDO. <b>COVID-19 Severity</b>, BR512024002371-2, Jul. 16, 2024. p. 13. <b>https://revistas.inpi.gov.br/pdf/Programa_de_computador2793.pdf</b><br>
 <img width="120" height="50" src=https://www.gov.br/inpi/pt-br/copy2_of_nova-home-page/@@govbr.institucional.banner/c1e399f8-ccf9-479b-a302-f80492cbc470/@@images/b9e08c17-bebf-4f2d-9f20-91cdab4b23b8.png>
 
 # Laboratory Biomarkers and Machine Learning
