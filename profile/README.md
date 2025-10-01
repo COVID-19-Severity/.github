@@ -40,6 +40,7 @@ https://github.com/COVID-19-Severity/DataSet
   <li>Ademir Luiz do Prado (1, 2)</li>
   <li>Alexandre de Fátima Cobre (3)</li>
   <li>Waldemar Volanski (1)</li>
+  <li>Liana Signorini (1)</li>
   <li>Glaucio Valdameri (1)</li>
   <li>Vivian Rotuno Moure (1)</li>
   <li>Alexessander da Silva Couto Alves (4)</li>
