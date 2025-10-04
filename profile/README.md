@@ -1,5 +1,6 @@
 <img src=https://pub.mdpi-res.com/img/journals/covid-logo.png?8600e93ff98dbf14>
 <p align="center"><h1>Machine Learning Models to Discriminate COVID-19 Severity with Biomarkers Available in Brazilian Public Health
+<br>
 <img width="30" height="30" src=https://galoa.com.br/wp-content/uploads/2022/05/doi-med.png> https://doi.org/10.3390/covid5100167</b>
 <br>
 <br>
